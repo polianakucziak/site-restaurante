@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: #f249f5;
+  background-color: #f452d3;
   color: white;
   text-align: center;
   padding: 40px 20px;
@@ -23,13 +23,13 @@ section {
   margin: 30px 0;
   background-color: #fff;
   padding: 20px;
-  border-left: 5px solid #f249f5;
+  border-left: 5px solid #f452d3;
   border-radius: 4px;
 }
 
 h2 {
   margin-bottom: 10px;
-  color: #f249f5;
+  color: #f452d3;
 }
 
 ul {
