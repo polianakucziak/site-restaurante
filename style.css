@@ -50,27 +50,3 @@ img{
     width: 25%;
     height: 50%;
 }
-
-/* Resetando margens e preenchimento */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;  /* Faz o body ocupar toda a altura da tela */
-  background-color: #f0f0f0; /* Cor de fundo suave */
-}
-
-.imagem-container {
-  text-align: center;  /* Garante que a imagem dentro do container estará centralizada */
-}
-
-img {
-  max-width: 80%;  /* Ajusta a largura máxima da imagem, se necessário */
-  height: auto;  /* Mantém a proporção da imagem */
-}
