@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: #f452d3;
+  background-color: #f776ed;
   color: white;
   text-align: center;
   padding: 40px 20px;
@@ -23,13 +23,13 @@ section {
   margin: 30px 0;
   background-color: #fff;
   padding: 20px;
-  border-left: 5px solid #f452d3;
+  border-left: 5px solid #f776ed;
   border-radius: 4px;
 }
 
 h2 {
   margin-bottom: 10px;
-  color: #f452d3;
+  color: #f776ed;
 }
 
 ul {
@@ -49,4 +49,9 @@ footer {
 img{
     width: 25%;
     height: 50%;
+}
+
+img{
+  width: 25%;
+  height: 50%;
 }
