@@ -60,3 +60,12 @@ img{
   height: auto;
   margin-right: 40px;
 }
+
+
+/* Estilos para as imagens dos pratos */
+.menu-img {
+  width: 300px;  /* Aumentando as imagens dos pratos para 300px de largura */
+  height: auto;
+  margin-right: 20px;
+  vertical-align: middle;
+}
